@@ -35,12 +35,26 @@ Para todos projetos:
 
 ## Aula 2
 
-* [Luhn e Zipf Law](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Zipf_Law.ipynb) 
-* [Aprendizado de Máquina Supervisionado](https://github.com/Rogerio-mack/Machine-Learning-I) *Cap. 1, 4, 5* | [Exercício Resolvido](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/MLG_02_ML_Supervisionado_review.ipynb) | [Exercício](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/MLG_02_ML_Supervisionado_exercicio.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/MLG_02_ML_Supervisionado_solucao.ipynb)
-* [TF-IDF, TfidfVectorizer e Feature Importance](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/TFIDF_Feature_Importance.ipynb)
+* [Aprendizado de Máquina Supervisionado](https://github.com/Rogerio-mack/Machine-Learning-I) *Cap. 1, 4, 5*
+> * 1. [**Introdução ao Aprendizado de Máquina**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
+> * 4. [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
+> * 5. [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
 <br>
 
-> *Lei de Zipf; Revisão Aprendizado de Máquina (Supervisionado): Cap1. Classificação e Regressão; Cap4. Sobreajuste e Conjuntos de Treinamento e Teste; Cap4. Métricas de Classificação; Cap5. Seleção de Atributos; TF-IDF, TfidfVectorizer para ML.*
+> *Aprendizado de Máquina (Supervisionado): Cap1. Classificação e Regressão; Cap4. Knn; Cap. Árvores de Decisão; Fronteira de Decisão; Sobreajuste.*
 
+## Aula 3
 
+* [Entenda como empregar os estimadores de regressão e classificação do scikit-learn](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/IA_scikit_learn_estimadores.ipynb)
+* [Aprendizado Supervisionado: Breast Câncer](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/scikit_learn_breast_cancer.ipynb)
+* [Classificação e Métricas](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Overfitting_Treinamento_e_Teste.ipynb)
+
+* [Deep Learning I: Modelos Sequenciais e Autoencoders](https://github.com/Rogerio-mack/Deep-Learning-I)
+> * 1. [Introdução aos Modelos Neurais](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+> * 2. [MLP Modelo Multilayer Perceptron](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T2.ipynb)
+
+<br>
+
+> *Aprendizado de Máquina (Supervisionado): Métricas: Acuracidade, Precisão, Recall; Conjuntos de Treinamento e Teste; Uso dos estimadores do sci-kitlearn;*
+> *Redes Neurais: Perceptron; Aprendizado e conceito de Backpropagation; XOR Problem; Redes Multi-layer Perceptron.*
