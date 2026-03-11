@@ -9,17 +9,18 @@ rogerio.oliveira@mackenzie.br
 
 <br>
 
-### **Projetos**
+### **Projeto: Simulação de Opinião Pública (*Silicon Sampling*)**
 
-Trabalho em grupo, máximo 6 alunos. Entrega e apresentação do projeto em 15.04. Cada grupo escolhe um dos temas que serão propostos.
+Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (Centro de Estudos de Opinião Pública) desenvolver um modelo LLM e um modelo de aprendizado supervisionado para simulação das respostas dos questionários e comparar seus resultados. [Escolha aqui a pesquisa de opinião](https://drive.google.com/drive/folders/10Zv1waT-aTPFsYhZ6l1CSa3feDEBZ1R2?usp=sharing).
 
-Para todos projetos:
-1. Empregar somente modelos e recursos abertos.
-2. Ser 100% executável e aberto. Pode executar 100% em um notebook Colab ou em uma aplicação do tipo Streamlit. 
-3. **GitHub**. Implementar um GitHub com o projeto com instruções de uso e informações básicas do projeto, incluindo Introdução, Referencial Teórico, Metodologia, Resultados e Conclusão (empregue o readme e arquivos adicionais de texto de precisar).
-4. **YouTube**. Apresentação máximo 5min, YouTube.
-5. **Mini-plano de negócios**. Na apresentação, não constando vídeo, apresentar/discutir uma potencial aplicação real para o tipo de projeto implementado.
-   
+1. **Organização e datas**. Trabalho em grupo. Sugestão de 2-3 grupos. Entrega e apresentação do projeto no final do curso, com data a definir. Cada grupo deve escolher uma pesquisa de opinião diferente para o trabalho.
+2. **Requisitos mínimos**. Ter como ponto de partida o artigo *Simulating Public Opinion: Comparing Distributional and Individual-Level Predictions from LLMs and Random Forests*, disponível na [pasta](https://drive.google.com/drive/folders/10Zv1waT-aTPFsYhZ6l1CSa3feDEBZ1R2?usp=sharing). Empregar no mínimo 200 simulações Comparar acuracidade (verificar métricas), distribuições das respostas e explicabilidade (importância relativa das variáveis preditoras). Simular ao menos 200 respondentes (10% dos dados), incluindo o maior número possível de características e respostas (sugestão: começe com um pequeno número respondentes, características e respostas, e aumente gradualmente).     
+3. **Ferramentas**. Empregue somente modelos e recursos abertos, sendo 100% executável e aberto. Preferencialmente executar 100% em um notebook Colab. 
+4. **GitHub**. Implementar um GitHub com o projeto.
+5. **Entrega**. No formato de um artigo SBC, preferencialmente em Latex. Apresentação opcional no YouTube (máximo 5min) com o link a ser incluído no GitHub.
+
+**Extra**: Esse projeto pode ser estendido adicionando-se a comparação com a simulação de respostas a partir do *fine-tunning* do modelo. Este trabalho entretanto, já daria uma dissertação. 
+
 <br>
 
 ## Aula 1
@@ -57,4 +58,14 @@ Para todos projetos:
 <br>
 
 > *Aprendizado de Máquina (Supervisionado): Métricas: Acuracidade, Precisão, Recall; Conjuntos de Treinamento e Teste; Uso dos estimadores do sci-kitlearn;*
-> *Redes Neurais: Perceptron; Aprendizado e conceito de Backpropagation; XOR Problem; Redes Multi-layer Perceptron.*
+> *Redes Neurais: Perceptron.*
+ 
+> ## Aula 4
+
+* [Deep Learning I: Modelos Sequenciais e Autoencoders](https://github.com/Rogerio-mack/Deep-Learning-I)
+> * 1. [Introdução aos Modelos Neurais](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
+> * 2. [MLP Modelo Multilayer Perceptron](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T2.ipynb)
+>   3. [Tensores, GPU, AutoGrad e Grafos de Execução](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T3.ipynb)
+
+> *Redes Neurais: Perceptron; Aprendizado e conceito de Backpropagation; XOR Problem; Redes Multi-layer Perceptron; Modelo MLP com Sci-Kit learn; Otimização de Hiper-parâmetros;*
+> *Deep Learning: Frameworks; Tensores, GPU, AutoGrad e Grafos de Execução; Diferentes arquiteturas de Redes.*
