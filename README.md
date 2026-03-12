@@ -9,7 +9,16 @@ rogerio.oliveira@mackenzie.br
 
 <br>
 
-### **Projeto: Simulação de Opinião Pública (*Silicon Sampling*)**
+### Exercícios (20%)
+
+Ex1. `scikit-ML-<seu nome>.ipynb`, aprendizado supervisionado
+Ex2. `scikit-MLP-<seu nome>.ipynb`, MLP
+
+Link para entrega dos exercícios [aqui](https://drive.google.com/drive/folders/15IQW5jpljaU1W_Ol0G1sU67gFKJF6a8E?usp=drive_link). 
+
+<br>
+
+### **Projeto: Simulação de Opinião Pública (*Silicon Sampling*) (80%)**
 
 Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (Centro de Estudos de Opinião Pública) desenvolver um modelo LLM e um modelo de aprendizado supervisionado para simulação das respostas dos questionários e comparar seus resultados. [Escolha aqui a pesquisa de opinião](https://drive.google.com/drive/folders/10Zv1waT-aTPFsYhZ6l1CSa3feDEBZ1R2?usp=sharing).
 
