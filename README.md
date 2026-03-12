@@ -11,8 +11,8 @@ rogerio.oliveira@mackenzie.br
 
 ### Exercícios (20%)
 
-Ex1. `scikit-ML-<seu nome>.ipynb`, aprendizado supervisionado
-Ex2. `scikit-MLP-<seu nome>.ipynb`, MLP
+* Ex1. `scikit-ML-<seu nome>.ipynb`, aprendizado supervisionado
+* Ex2. `scikit-MLP-<seu nome>.ipynb`, MLP
 
 Link para entrega dos exercícios [aqui](https://drive.google.com/drive/folders/15IQW5jpljaU1W_Ol0G1sU67gFKJF6a8E?usp=drive_link). 
 
