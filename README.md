@@ -23,6 +23,18 @@ Link para entrega dos exercícios [aqui](https://drive.google.com/drive/folders/
 Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (Centro de Estudos de Opinião Pública) desenvolver um modelo LLM e um modelo de aprendizado supervisionado para simulação das respostas dos questionários e comparar seus resultados. [Escolha aqui a pesquisa de opinião](https://drive.google.com/drive/folders/10Zv1waT-aTPFsYhZ6l1CSa3feDEBZ1R2?usp=sharing).
 
 1. **Organização e datas**. Trabalho em grupo. Sugestão de 2-3 grupos. Entrega e apresentação do projeto no final do curso, com data a definir. Cada grupo deve escolher uma pesquisa de opinião diferente para o trabalho.
+
+#### Sugestão de Cronograma
+
+| Até | Atividade |
+|-|-|
+| 14-Mar | Escolha do Grupo, a Pesquisa, Entendimento do Projeto (leitura do artigo) e dados |
+| 21-Mar | Geração de respostas simuladas via o modelo de Aprendizado de Máquina Supervisionado |
+| 28-Mar | Geração de respostas simuladas via LLM |
+| 04-Abr | Comparativo dos resultados dos modelos |
+| 11-Abr | Elaboração do artigo (texto do trabalho) e organização do repositório |
+| 15-Abr | Ajustes e entrega final |
+
 2. **Requisitos mínimos**. Ter como ponto de partida o artigo *Simulating Public Opinion: Comparing Distributional and Individual-Level Predictions from LLMs and Random Forests*, disponível na [pasta](https://drive.google.com/drive/folders/10Zv1waT-aTPFsYhZ6l1CSa3feDEBZ1R2?usp=sharing). Empregar no mínimo 200 simulações Comparar acuracidade (verificar métricas), distribuições das respostas e explicabilidade (importância relativa das variáveis preditoras). Simular ao menos 200 respondentes (10% dos dados), incluindo o maior número possível de características e respostas (sugestão: começe com um pequeno número respondentes, características e respostas, e aumente gradualmente).     
 3. **Ferramentas**. Empregue somente modelos e recursos abertos, sendo 100% executável e aberto. Preferencialmente executar 100% em um notebook Colab. 
 4. **GitHub**. Implementar um GitHub com o projeto.
