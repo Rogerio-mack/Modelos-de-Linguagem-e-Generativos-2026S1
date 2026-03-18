@@ -11,8 +11,9 @@ rogerio.oliveira@mackenzie.br
 
 ### Exercícios (20%)
 
-* Ex1. `scikit-ML-<seu nome>.ipynb`, aprendizado supervisionado
-* Ex2. `scikit-MLP-<seu nome>.ipynb`, MLP
+* Ex1. `scikit-ML-<seu nome>.ipynb`, Implemente um modelo de Aprendizado Supervisionado com o scikit-learn
+* Ex2. `scikit-MLP-<seu nome>.ipynb`, Implemente o modelo anterior com um MLP do scikit-learn. Varie diferentes parâmetros do MLP e compare os resultados.
+* Ex3. `NLP-<seu nome>.ipynb`, Encontre uma base de dados em português para treinar um modelo Supervisionado para análise de sentimento. Depois de treinado o modelo gere com algum LLM um conjunto de 100 frases (50 positivas e 50 negativas). Empregue o seu modelo para classificar as 100 frases. Compare e discuta os resultados do seu modelo com o *ground-true* (a classificação dada pelo LLM).
 
 Link para entrega dos exercícios [aqui](https://drive.google.com/drive/folders/15IQW5jpljaU1W_Ol0G1sU67gFKJF6a8E?usp=drive_link). 
 
@@ -45,7 +46,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 <br>
 
-## Aula 1
+## Aula 1 Introdução
 
 * [Questionário pré-curso](https://forms.gle/LkD3H8LBB6GpvZLv7)
 * [Plano de Ensino](https://github.com/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Plano_de_Ensino_Modelos_de_Linguagem_e_Generativos_20250416.pdf)
@@ -56,7 +57,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 > *Programa; Visão geral do curso; Introdução ao processamento de linguagem natural; representações vetorais BOW, TF-IDF; similaridade cosseno; outras representações vetorais; tarefas de modelos de linguagem; importância dos termos no aprendizado de máquina.*
 
-## Aula 2
+## Aula 2 Aprendizado de Máquina Supervisionado
 
 * [Aprendizado de Máquina Supervisionado](https://github.com/Rogerio-mack/Machine-Learning-I) *Cap. 1, 4, 5*
 > * 1. [Introdução ao Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
@@ -67,7 +68,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 > *Aprendizado de Máquina (Supervisionado): Cap1. Classificação e Regressão; Cap4. Knn; Cap. Árvores de Decisão; Fronteira de Decisão; Sobreajuste.*
 
-## Aula 3
+## Aula 3 Métricas de Classificação, Conjuntos de Treinamento e Teste, Neurônio Perceptron
 
 * [Entenda como empregar os estimadores de regressão e classificação do scikit-learn](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/IA_scikit_learn_estimadores.ipynb)
 * [Aprendizado Supervisionado: Breast Câncer](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/scikit_learn_breast_cancer.ipynb)
@@ -82,7 +83,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 > *Aprendizado de Máquina (Supervisionado): Métricas: Acuracidade, Precisão, Recall; Conjuntos de Treinamento e Teste; Uso dos estimadores do sci-kitlearn;*
 > *Redes Neurais: Perceptron.*
  
-## Aula 4
+## Aula 4 Redes Neurais
 
 * [Deep Learning I: Modelos Sequenciais e Autoencoders](https://github.com/Rogerio-mack/Deep-Learning-I)
 > * 1. [Introdução aos Modelos Neurais](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
@@ -92,13 +93,17 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 > *Redes Neurais: Perceptron; Aprendizado e conceito de Backpropagation; XOR Problem; Redes Multi-layer Perceptron; Modelo MLP com Sci-Kit learn; Otimização de Hiper-parâmetros;*
 > *Deep Learning: Frameworks; Tensores, GPU, AutoGrad e Grafos de Execução; Diferentes arquiteturas de Redes.*
 
-## Aula 5
+## Aula 5 Processamento de Linguagem Natural
 
-> * [Luhn e Zipf Law](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Zipf_Law.ipynb) 
-> * [TF-IDF, TfidfVectorizer e Feature Importance](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TFIDF_Feature_Importance.ipynb)
-> * [Word Embedding](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Word_Embedding_spaCy_Gensim.ipynb)
-> * Leitura complementar: Christopher Manning, Richard Socher. [Natural Language Processing with Deep Learning. Lecture Notes: Part I Word Vectors I: Introduction, SVD and Word2Vec](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
-> * [Exercício 2](https://forms.gle/SeQ9NZok2GH3CERn8) Empregando o como modelo [TensorFlow & Word2Vec](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TF_word2vec.ipynb), treine um modelo próprio em português exibindo alguns resultados. *Bom para, 15.Nov*
+* [Luhn e Zipf Law](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Zipf_Law.ipynb)
+* [Bag of Words, TF-IDF, Word Embeddings](https://github.com/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/IMT_TFIDF_word2vec.pdf)
+* [TF-IDF, TfidfVectorizer e Feature Importance](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/TFIDF_Feature_Importance.ipynb)
+* [Word Embedding](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Word_Embedding_spaCy_Gensim.ipynb)
+* [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/)
+
+> * Extra: [TensorFlow Word2Vec](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/TF_word2vec.ipynb)
+
 > * Leitura complementar (explore): Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2023). [Dive into deep learning](https://d2l.ai/). Cambridge University Press.
+> * Leitura complementar: Christopher Manning, Richard Socher. [Natural Language Processing with Deep Learning. Lecture Notes: Part I Word Vectors I: Introduction, SVD and Word2Vec](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
  
-> *Lei de Zipf; TF-IDF, TfidfVectorizer para ML.*
+> *Tarefas de NLP; Lei de Zipf; Stop Words; Pré processamento de Linguagem: Stemming e Lematização; Bag of Words; TF-IDF, TfidfVectorizer para ML; Normalização; Word Embeddings;*
