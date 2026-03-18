@@ -91,3 +91,14 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 > *Redes Neurais: Perceptron; Aprendizado e conceito de Backpropagation; XOR Problem; Redes Multi-layer Perceptron; Modelo MLP com Sci-Kit learn; Otimização de Hiper-parâmetros;*
 > *Deep Learning: Frameworks; Tensores, GPU, AutoGrad e Grafos de Execução; Diferentes arquiteturas de Redes.*
+
+> ## Aula 5
+
+> * [Luhn e Zipf Law](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Zipf_Law.ipynb) 
+> * [TF-IDF, TfidfVectorizer e Feature Importance](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TFIDF_Feature_Importance.ipynb)
+> * [Word Embedding](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Word_Embedding_spaCy_Gensim.ipynb)
+> * Leitura complementar: Christopher Manning, Richard Socher. [Natural Language Processing with Deep Learning. Lecture Notes: Part I Word Vectors I: Introduction, SVD and Word2Vec](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
+> * [Exercício 2](https://forms.gle/SeQ9NZok2GH3CERn8) Empregando o como modelo [TensorFlow & Word2Vec](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TF_word2vec.ipynb), treine um modelo próprio em português exibindo alguns resultados. *Bom para, 15.Nov*
+> * Leitura complementar (explore): Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2023). [Dive into deep learning](https://d2l.ai/). Cambridge University Press.
+ 
+> *Lei de Zipf; TF-IDF, TfidfVectorizer para ML.*
