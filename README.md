@@ -82,7 +82,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 > *Aprendizado de Máquina (Supervisionado): Métricas: Acuracidade, Precisão, Recall; Conjuntos de Treinamento e Teste; Uso dos estimadores do sci-kitlearn;*
 > *Redes Neurais: Perceptron.*
  
-> ## Aula 4
+## Aula 4
 
 * [Deep Learning I: Modelos Sequenciais e Autoencoders](https://github.com/Rogerio-mack/Deep-Learning-I)
 > * 1. [Introdução aos Modelos Neurais](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb)
@@ -92,7 +92,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 > *Redes Neurais: Perceptron; Aprendizado e conceito de Backpropagation; XOR Problem; Redes Multi-layer Perceptron; Modelo MLP com Sci-Kit learn; Otimização de Hiper-parâmetros;*
 > *Deep Learning: Frameworks; Tensores, GPU, AutoGrad e Grafos de Execução; Diferentes arquiteturas de Redes.*
 
-> ## Aula 5
+## Aula 5
 
 > * [Luhn e Zipf Law](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Zipf_Law.ipynb) 
 > * [TF-IDF, TfidfVectorizer e Feature Importance](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/TFIDF_Feature_Importance.ipynb)
