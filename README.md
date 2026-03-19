@@ -25,6 +25,9 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 1. **Organização e datas**. Trabalho em grupo. Sugestão de 2-3 grupos. Entrega e apresentação do projeto no final do curso, com data a definir. Cada grupo deve escolher uma pesquisa de opinião diferente para o trabalho.
 
+- `Democracia` = Lucas Nascimento, Matheus Moreira
+- `Desigualdade` = Maria José, Ana Ribeiro
+
 #### Sugestão de Cronograma
 
 | Até | Atividade |
