@@ -14,7 +14,8 @@ rogerio.oliveira@mackenzie.br
 * Ex1. `scikit-ML-<seu nome>.ipynb`, Implemente um modelo de Aprendizado Supervisionado com o scikit-learn
 * Ex2. `scikit-MLP-<seu nome>.ipynb`, Implemente o modelo anterior com um MLP do scikit-learn. Varie diferentes parâmetros do MLP e compare os resultados.
 * Ex3. `NLP-<seu nome>.ipynb`, Encontre uma base de dados em português para treinar um modelo Supervisionado para análise de sentimento. Depois de treinado o modelo gere com algum LLM um conjunto de 100 frases (50 positivas e 50 negativas). Empregue o seu modelo para classificar as 100 frases. Compare e discuta os resultados do seu modelo com o *ground-true* (a classificação dada pelo LLM).
-
+* Ex4. `DeepLearning-<seu nome>.ipynb`, Empregue os dados do exercício anterior. No lugar do TF-IDF, empregue agora o embedding de algum modelo LLM e treine um classificador com TensorFlow ou PyTorch. Empregue o seu modelo para classificar as 100 frases do exercício anterior. Compare e discuta os novos resultados com o *ground-true* (a classificação dada pelo LLM).
+  
 Link para entrega dos exercícios [aqui](https://drive.google.com/drive/folders/15IQW5jpljaU1W_Ol0G1sU67gFKJF6a8E?usp=drive_link). 
 
 <br>
@@ -96,18 +97,28 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 > * Leitura complementar (explore): Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2023). [Dive into deep learning](https://d2l.ai/). Cambridge University Press.
 
 > *Redes Neurais: Perceptron; Aprendizado e conceito de Backpropagation; XOR Problem; Redes Multi-layer Perceptron; Modelo MLP com Sci-Kit learn; Otimização de Hiper-parâmetros;*
-> *Deep Learning: Frameworks; Tensores, GPU, AutoGrad e Grafos de Execução; Diferentes arquiteturas de Redes.*
 
 ## Aula 5 Processamento de Linguagem Natural
 
 * [Luhn e Zipf Law](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Zipf_Law.ipynb)
 * [Bag of Words, TF-IDF, Word Embeddings](https://github.com/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/IMT_TFIDF_word2vec.pdf)
 * [TF-IDF, TfidfVectorizer e Feature Importance](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/TFIDF_Feature_Importance.ipynb)
-* [Word Embedding](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Word_Embedding_spaCy_Gensim.ipynb)
 * [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/)
 
 > * Extra: [TensorFlow Word2Vec](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/TF_word2vec.ipynb)
 
 > * Leitura complementar: Christopher Manning, Richard Socher. [Natural Language Processing with Deep Learning. Lecture Notes: Part I Word Vectors I: Introduction, SVD and Word2Vec](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
  
-> *Tarefas de NLP; Lei de Zipf; Stop Words; Pré processamento de Linguagem: Stemming e Lematização; Bag of Words; TF-IDF, TfidfVectorizer para ML; Normalização; Word Embeddings;*
+> *Tarefas de NLP; Lei de Zipf; Stop Words; Pré processamento de Linguagem: Stemming e Lematização; Bag of Words; TF-IDF, TfidfVectorizer para ML; Normalização; Introdução ao Word Embeddings;*
+
+## Aula 6 Embeddings e Deep Learning
+
+* [Word Embedding](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Word_Embedding_spaCy_Gensim.ipynb)
+* [Deep Learning I: Modelos Sequenciais e Autoencoders](https://github.com/Rogerio-mack/Deep-Learning-I)
+* 1. [Tensores, GPU, AutoGrad e Grafos de Execução](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T3.ipynb)
+* 2. [Modelos Sequenciais e Classificação com TensorFlow](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T4.ipynb)
+* 3. [Modelos Sequencias com PyTorch](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T6.ipynb)
+
+* [Um exemplo completo: TF-IDF, LLM-Embedding, Classificações Scikit-Learn, TensorFlow e Torch](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/TFIDF_Embedding_Classifier.ipynb)
+
+> *Introdução ao Word Embeddings;Deep Learning: Frameworks; Tensores, GPU, AutoGrad e Grafos de Execução; Diferentes arquiteturas de Redes.*
