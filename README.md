@@ -28,6 +28,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 - `Democracia` = Lucas Nascimento, Matheus Moreira
 - `Desigualdade` = Maria José, Ana Ribeiro
+- `Racismo` = Lucas Braga, Thiago Keller, Renato Rosa
 
 #### Sugestão de Cronograma
 
