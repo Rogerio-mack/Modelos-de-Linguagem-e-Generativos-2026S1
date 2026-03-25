@@ -139,5 +139,3 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 * [Diferentes Tarefas com LLMs: *o pulo do gato!*](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/LLMs_Text_Classification.ipynb)
 
 
-> * [Exercício 3](https://forms.gle/aV6xAF2SsKzVGkj77) *Bom para, 22.Nov*
-
