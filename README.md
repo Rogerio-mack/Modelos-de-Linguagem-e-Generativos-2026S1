@@ -127,4 +127,17 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 ## Aula 7 Embeddings e Deep Learning
 
 * [Um exemplo completo: TF-IDF, LLM-Embedding, Classificações Scikit-Learn, TensorFlow e Torch](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/TFIDF_Embedding_Classifier.ipynb)
+* [Representação Interna em uma Rede Neural](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Representacao_Interna_NN.ipynb)
+* [Como os Transformers Funcionam?](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/4.md)
+> * [Explorando os mecanismos de Atenção e a arquitetura Transformers](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Attention_and_Transformers_Explorer.ipynb)
+
+> * Link complementar: https://poloclub.github.io/transformer-explainer/
+> * Leitura complementar: Guillaume Klein et. al [OpenNMT: Open-Source Toolkit for Neural Machine Translation](https://nlp.seas.harvard.edu/2018/04/03/attention.html#encoder-and-decoder-stacks), also [**The Annotated Transformer**](https://nlp.seas.harvard.edu/2018/04/03/attention.html#encoder-and-decoder-stacks). Ou se preferir de uma forma mais didática
+[**How Transformers Work: A Detailed Exploration of Transformer Architecture**](https://www.datacamp.com/tutorial/how-transformers-work)
+
+* [Deep dive into Atenção e Transformers](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Atencao_QKV_transformers.ipynb)
+* [Diferentes Tarefas com LLMs: *o pulo do gato!*](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/LLMs_Text_Classification.ipynb)
+
+
+> * [Exercício 3](https://forms.gle/aV6xAF2SsKzVGkj77) *Bom para, 22.Nov*
 
