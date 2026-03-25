@@ -123,3 +123,8 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 * [Um exemplo completo: TF-IDF, LLM-Embedding, Classificações Scikit-Learn, TensorFlow e Torch](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/TFIDF_Embedding_Classifier.ipynb)
 
 > *Introdução ao Word Embeddings;Deep Learning: Frameworks; Tensores, GPU, AutoGrad e Grafos de Execução; Diferentes arquiteturas de Redes.*
+
+## Aula 7 Embeddings e Deep Learning
+
+* [Um exemplo completo: TF-IDF, LLM-Embedding, Classificações Scikit-Learn, TensorFlow e Torch](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/TFIDF_Embedding_Classifier.ipynb)
+
