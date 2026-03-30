@@ -15,6 +15,7 @@ rogerio.oliveira@mackenzie.br
 * Ex2. `scikit-MLP-<seu nome>.ipynb`, Implemente o modelo anterior com um MLP do scikit-learn. Varie diferentes parâmetros do MLP e compare os resultados.
 * Ex3. `NLP-<seu nome>.ipynb`, Encontre uma base de dados em português para treinar um modelo Supervisionado para análise de sentimento. Depois de treinado o modelo gere com algum LLM um conjunto de 100 frases (50 positivas e 50 negativas). Empregue o seu modelo para classificar as 100 frases. Compare e discuta os resultados do seu modelo com o *ground-true* (a classificação dada pelo LLM).
 * Ex4. `DeepLearning-<seu nome>.ipynb`, Empregue os dados do exercício anterior. No lugar do TF-IDF, empregue agora o embedding de algum modelo LLM e treine um classificador com TensorFlow ou PyTorch. Empregue o seu modelo para classificar as 100 frases do exercício anterior. Compare e discuta os novos resultados com o *ground-true* (a classificação dada pelo LLM).
+* Ex5. `ImgTransfer-<seu nome>.ipynb`, Empregue um dos modelos pré-treinados de imagens TensorFlow (https://www.tensorflow.org/api_docs/python/tf/keras/applications?hl=en), exceto os modelos VGG+ e ResNet+ já vistos em sala, para **classificação binária** de imagens de sua escolha. 
   
 Link para entrega dos exercícios [aqui](https://drive.google.com/drive/folders/15IQW5jpljaU1W_Ol0G1sU67gFKJF6a8E?usp=drive_link). 
 
@@ -128,14 +129,34 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 * [Um exemplo completo: TF-IDF, LLM-Embedding, Classificações Scikit-Learn, TensorFlow e Torch](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/TFIDF_Embedding_Classifier.ipynb)
 * [Representação Interna em uma Rede Neural](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Representacao_Interna_NN.ipynb)
-* [Como os Transformers Funcionam?](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/4.md)
-> * [Explorando os mecanismos de Atenção e a arquitetura Transformers](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Attention_and_Transformers_Explorer.ipynb)
 
 > * Link complementar: https://poloclub.github.io/transformer-explainer/
 > * Leitura complementar: Guillaume Klein et. al [OpenNMT: Open-Source Toolkit for Neural Machine Translation](https://nlp.seas.harvard.edu/2018/04/03/attention.html#encoder-and-decoder-stacks), also [**The Annotated Transformer**](https://nlp.seas.harvard.edu/2018/04/03/attention.html#encoder-and-decoder-stacks). Ou se preferir de uma forma mais didática
 [**How Transformers Work: A Detailed Exploration of Transformer Architecture**](https://www.datacamp.com/tutorial/how-transformers-work)
 
+> *Representação interna de uma rede neural; Treinamento de modelos TensorFlow e PyTorch com embeddings*
+
+## Aula 8 Redes Convolucionais: Modelos Neurais com Imagens
+
+* [TF Classificação de Dígitos MNIST, MLP X Conv2D](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/MLG_TF_MNIST_Classifier.ipynb)
+* [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+* [Classificação de Imagens: Keras/TensorFlow](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/MLG_TF_ImageClassifier.ipynb)
+* [Classificação de Imagens: VGG16](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/AI_TF_ImageClassifier_VGG16.ipynb)
+* [Object Detection: Yolo, ResNet](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Yolov5_Resnet50_object_detection.ipynb)
+
+> *Convolução; Kernel, padding, pooling; Redes convolucionais; Modelos pré-treinados*
+
+## Aula 9 Transformers & Fine Tune
+
+* [Como os Transformers Funcionam?](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/4.md)
+> * [Explorando os mecanismos de Atenção e a arquitetura Transformers](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Attention_and_Transformers_Explorer.ipynb)
 * [Deep dive into Atenção e Transformers](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Atencao_QKV_transformers.ipynb)
 * [Diferentes Tarefas com LLMs: *o pulo do gato!*](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/LLMs_Text_Classification.ipynb)
 
+> *Visão geral da arquitetura transformers; mecanismo de atenção; fine tune de modelos*
 
+## Aula 10 Fine Tune LLMs, Bancos de Dados Vetoriais e RAG
+
+## Aula 11 LLM Agents e Métricas
+
+## Aula 12 Yolo (Hands On)? 
