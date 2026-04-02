@@ -42,6 +42,20 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 | 11-Abr | Elaboração do artigo (texto do trabalho) e organização do repositório |
 | 15-Abr | Ajustes e entrega final |
 
+#### Sugestão de Roteiro de Apresentação (máx 15min)
+
+| Slide | Conteúdo |
+|-|-|
+| 1 | Apresentação do Questionário empregado |
+| 2 | Seleção dos dados para os modelos e Preparação dos Dados (alternativamente em um slide separado) |
+| 3 | Modelo Supervisionado (modelo empregado, seus hiperparâmetros, conjuntos de treinamento e teste) |
+| 4 | Métricas e resultados do modelo Supervisionado |
+| 5 | Modelo LLM empregado (características e justificativa da escolha) |
+| 6 | Geração e execução dos prompts (+exemplos dos prompts gerados) |
+| 7 | Métricas e resultados do modelo LLM |
+| 8 | Comparação dos modelos |
+| 9 | Conclusão |
+
 2. **Requisitos mínimos**. Ter como ponto de partida o artigo *Simulating Public Opinion: Comparing Distributional and Individual-Level Predictions from LLMs and Random Forests*, disponível na [pasta](https://drive.google.com/drive/folders/10Zv1waT-aTPFsYhZ6l1CSa3feDEBZ1R2?usp=sharing). Empregar no mínimo 200 simulações Comparar acuracidade (verificar métricas), distribuições das respostas e explicabilidade (importância relativa das variáveis preditoras). Simular ao menos 200 respondentes (10% dos dados), incluindo o maior número possível de características e respostas (sugestão: começe com um pequeno número respondentes, características e respostas, e aumente gradualmente).     
 3. **Ferramentas**. Empregue somente modelos e recursos abertos, sendo 100% executável e aberto. Preferencialmente executar 100% em um notebook Colab. 
 4. **GitHub**. Implementar um GitHub com o projeto.
