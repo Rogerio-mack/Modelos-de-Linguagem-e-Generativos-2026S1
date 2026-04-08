@@ -195,7 +195,8 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 > * Leitura complementar, Khaled Bayoudh (2024) [**A survey of multimodal hybrid deep learning for computer vision: Architectures, applications, trends, and challenges**](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/multimodal_concatenate.pdf)
 
->> **Aula 12 Yolo (Hands On)** 
->> **Pré-Apresentação dos Projetos (10-15min)** - 15 de Abril de 2026 às 19:20 - 21:00, Prédio 31 - Sala 401
+>> **Aula 12 Yolo (Hands On)**  - 15 de Abril de 2026 às 19:20 - 21:00, Prédio 31 - Sala 401
+
+>> **Pré-Apresentação dos Projetos (10-15min)**
 
 ## Entrega dos Projetos: GitHub, 20.04 19h
