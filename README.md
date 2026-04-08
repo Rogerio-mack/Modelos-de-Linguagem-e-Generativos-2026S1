@@ -171,6 +171,18 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 ## Aula 10 Fine Tune LLMs, Bancos de Dados Vetoriais e RAG
 
+* [Capítulo 6: Chabots Inteligentes na Saúde: Implementações com Modelos Abertos e Dados Próprios](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Capitulo_6_LLM.pdf)
+* [Fine-Tunning ResNet18 com PyTorch Lightning (PL)](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Fine_Tune_Images_PyTorch_Lightning.ipynb)
+* [Fine-Tunning com Hugging Face API Trainer, LoRA e QLoRA](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Hugging_Face_Trainer_API_LoRA.ipynb)
+* [RAG Retrieval-augmented generation](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/RAG.ipynb)
+
 ## Aula 11 LLM Agents e Métricas
+
+* [LLM Metrics](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/LLM_metrics.ipynb)
+* [LLM Agents](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/LLM_Agentes.ipynb)
+
+> * Leitura complementar (Cap 12, **Automating Preference Evaluation Using Reward Models**): Alammar, Jay, and Maarten Grootendorst. [Hands-on large language models: language understanding and generation.](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Hands-On-LLM/Jay%20Alammar%2C%20Maarten%20Grootendorst%20-%20Hands-On%20Large%20Language%20Models_%20Language%20Understanding%20and%20Generation%20(2024%2C%20O%E2%80%99Reilly%20Media)%20-%20libgen.pdf) O'Reilly Media, Inc., 2024.
+
+> * Leitura complementar, Khaled Bayoudh (2024) [**A survey of multimodal hybrid deep learning for computer vision: Architectures, applications, trends, and challenges**](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/multimodal_concatenate.pdf)
 
 ## Aula 12 Yolo (Hands On)? 
