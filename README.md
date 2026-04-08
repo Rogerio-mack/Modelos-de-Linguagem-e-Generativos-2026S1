@@ -167,6 +167,8 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 * [Deep dive into Atenção e Transformers](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Atencao_QKV_transformers.ipynb)
 * [Diferentes Tarefas com LLMs: *o pulo do gato!*](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/LLMs_Text_Classification.ipynb)
 
+> * Leitura complementar: Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow. [Chapter 17](https://drive.google.com/file/d/1pJAWwpLgzD4sJGYFHWsxNpWCfKwRk-qX/view?usp=sharing). O'Reilly Media, Inc.
+
 > *Visão geral da arquitetura transformers; mecanismo de atenção; fine tune de modelos*
 
 ## Aula 10 Fine Tune LLMs, Bancos de Dados Vetoriais e RAG
@@ -174,6 +176,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 * [Capítulo 6: Chabots Inteligentes na Saúde: Implementações com Modelos Abertos e Dados Próprios](https://github.com/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Capitulo_6_LLM.pdf)
 * [Fine-Tunning ResNet18 com PyTorch Lightning (PL)](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Fine_Tune_Images_PyTorch_Lightning.ipynb)
 * [Fine-Tunning com Hugging Face API Trainer, LoRA e QLoRA](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Hugging_Face_Trainer_API_LoRA.ipynb)
+* [NoSQL Databases e Vector Stores](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A05_SQL_NoSQL.ipynb)
 * [RAG Retrieval-augmented generation](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/RAG.ipynb)
 
 ## Aula 11 LLM Agents e Métricas
