@@ -177,7 +177,14 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 * [Fine-Tunning ResNet18 com PyTorch Lightning (PL)](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Fine_Tune_Images_PyTorch_Lightning.ipynb)
 * [Fine-Tunning com Hugging Face API Trainer, LoRA e QLoRA](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Hugging_Face_Trainer_API_LoRA.ipynb)
 * [NoSQL Databases e Vector Stores](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A05_SQL_NoSQL.ipynb)
-* [RAG Retrieval-augmented generation](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/RAG.ipynb)
+
+#### Um pipeline completo em português
+
+* [Modelo Causal](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Modelo_Causal.ipynb)
+* [Modelo Embedding](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Modelo_Causal.ipynb)
+* [Modelo RAG](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Modelo_RAG.ipynb)
+* [Modelo RAG FAISS](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Modelo_RAG_FAISS.ipynb)
+> * [Modelo RAG FAISS](https://colab.research.google.com/github/Rogerio-mack/Modelos_de_Linguagem_e_Generativos/blob/main/Modelo_SQuAD.ipynb)
 
 ## Aula 11 LLM Agents e Métricas
 
