@@ -200,4 +200,6 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 >> **Pré-Apresentação dos Projetos (10-15min)**
 
-## Entrega dos Projetos: Checklist das entregas no GitHub, 22.04 18:30-19:00h
+## Entrega dos Projetos
+
+> * **Checklist das entregas no GitHub, 22.04 18:30-19:00h**
