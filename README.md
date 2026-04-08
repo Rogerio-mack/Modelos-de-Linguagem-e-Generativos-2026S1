@@ -61,6 +61,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 4. **GitHub**. Implementar um GitHub com o projeto.
 5. **Entrega**. No formato de um artigo SBC, preferencialmente em Latex. Apresentação opcional no YouTube (máximo 5min) com o link a ser incluído no GitHub.
 6. **Rubrica**. Modelo LLM, 3p (quantidade de atributos e respostas, qualidade dos prompts e aderência das respostas); Modelo Supervisionado, 2p (separação de dados, parametrização do modelo); Análise e Comparação dos resultados, 3p (métricas empregadas, repetições e/ou bootstrapping, gráficos comparativos, técnicas de explicabilidade); Artigo e Aspecto Geral do Trabalho, 2p (Apresentação, fundamentação, referências, apresentação dos resultados).
+7. **Vídeo**. Máximo 10min, YouTube e link no GitHub.
 
 **Extra**: Esse projeto pode ser estendido adicionando-se a comparação com a simulação de respostas a partir do *fine-tunning* do modelo. Este trabalho entretanto, já daria uma dissertação. 
 
@@ -199,4 +200,4 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 >> **Pré-Apresentação dos Projetos (10-15min)**
 
-## Entrega dos Projetos: GitHub, 20.04 19h
+## Entrega dos Projetos: Checklist das entregas no GitHub, 22.04 18:30-19:00h
