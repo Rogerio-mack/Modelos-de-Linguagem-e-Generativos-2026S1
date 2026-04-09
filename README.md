@@ -182,7 +182,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 #### Um pipeline completo em português
 
 * [Modelo Causal](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Modelo_Causal.ipynb)
-* [Modelo Embedding](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Modelo_Causal.ipynb)
+* [Modelo Embedding](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Modelo_Embedding.ipynb)
 * [Modelo RAG](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Modelo_RAG.ipynb)
 * [Modelo RAG FAISS](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Modelo_RAG_FAISS.ipynb)
 > * [Modelo SQuAD](https://colab.research.google.com/github/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/blob/main/Modelo_SQuAD.ipynb)
