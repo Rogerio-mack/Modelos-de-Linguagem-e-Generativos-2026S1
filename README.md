@@ -203,3 +203,4 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 ## Entrega dos Projetos
 
 > * **Checklist das entregas no GitHub, 22.04 18:30-19:00h**
+> * **Entrega:** Informe [aqui](https://docs.google.com/spreadsheets/d/1DnM6KxuRyhZy7yvHKf7feoC_4mn84h-A46-QKWGrPAg/edit?usp=sharing) o link do GitHub com o seu projeto. Como combinado, dia 22.04, das 18:30-19:00h, estarei na sala caso queiram tratar algum tema sobre a entrega pessoalmente. 
