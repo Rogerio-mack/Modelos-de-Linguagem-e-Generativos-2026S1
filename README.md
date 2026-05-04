@@ -3,6 +3,8 @@ rogerio.oliveira@mackenzie.br
 
 <br>
 
+### (NOVO) [Planilha de notas e Feedback dos projetos](https://github.com/Rogerio-mack/Modelos-de-Linguagem-e-Generativos-2026S1/raw/refs/heads/main/notas_2026S1.xlsx)
+
 ### **Link dos Encontros Síncronos**
 
 > * [09 Março](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTlmMTY5YTEtMDgxYS00NDhjLWIxMDktM2ZlOTQ1ZmI0Yjkw%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d) | [23 Março](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTlmMTY5YTEtMDgxYS00NDhjLWIxMDktM2ZlOTQ1ZmI0Yjkw%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d) | [30 Março](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTlmMTY5YTEtMDgxYS00NDhjLWIxMDktM2ZlOTQ1ZmI0Yjkw%40thread.v2/0?context=%7b%22Tid%22%3a%2251da9440-4e5e-47b3-8e5c-4817f6f43c04%22%2c%22Oid%22%3a%22e7fc012e-6f57-4879-9416-93179af90e74%22%7d)
